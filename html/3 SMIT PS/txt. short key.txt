@@ -1,0 +1,9 @@
+     SHORT CUT KEY
+
+ Ctrl+ A = Select
+ Ctrl + B = Bold
+ Ctrl +C= Copy
+ Ctrl + D =Duplicate
+ Ctrl + E = Center alignment
+ Ctrl + F = Find/ replace option
+ Ctrl + G = Find / replace & page no option
